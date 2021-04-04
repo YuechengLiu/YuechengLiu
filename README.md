@@ -1,6 +1,6 @@
 - I’m @YuechengLiu
 - Postgraduate student at Harbin Institute of Technology, Shenzhen.
-- Interests: Machine Learning, Deep Learning, Reinforcement Learning.
+- Interests: Reinforcement Learning, Machine Learning, Deep Learning.
 - How to reach me: liuy150617@163.com
 
 <!---
