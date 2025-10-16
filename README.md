@@ -1,5 +1,9 @@
 - I’m @YuechengLiu
-- Interests: Reinforcement Learning, Machine Learning, Deep Learning.
+- Interests:
+  - Embodied AI
+  - Reinforcement Learning & Imitation Learning
+  - Multimodal Large Language Models (2/3D)
+  - Spatial Reasoning and Planning
 - Working at Huawei Noah's Ark Lab.
 - How to reach me: liuy150617@163.com
 
